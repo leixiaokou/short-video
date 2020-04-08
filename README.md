@@ -46,7 +46,7 @@ https://v.taokeduo.cn/api?uid=应用uid&url=短视频平台的分享链接
 
 基本接口调用，代码出售服务
 
-链接：
+链接：https://w.url.cn/s/ATkDaeB 
 
 ##### 联系我
 
