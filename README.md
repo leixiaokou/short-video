@@ -42,7 +42,8 @@ https://v.taokeduo.cn/api?uid=应用uid&url=短视频平台的分享链接
 关注微信公众号 "抖乐圈" 点击菜单即可进入小程序看产品功能
 
 <img src="./douyin-program-code.png"/>
-##### 购买服务
+
+#####  购买服务
 
 基本接口调用，代码出售服务
 
