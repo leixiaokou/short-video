@@ -41,7 +41,7 @@ https://v.taokeduo.cn/api?uid=应用uid&url=短视频平台的分享链接
 ##### 功能成品
 
 关注微信公众号 "抖乐圈" 点击菜单即可进入小程序看产品功能
-<img src="https://api.taokeduo.cn/ad/douyin-mini-program-code.png" style="width:400px"/>
+<img src="https://api.taokeduo.cn/ad/douyin-mini-program-code.png"/>
 
 ##### 购买服务
 
