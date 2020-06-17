@@ -41,7 +41,7 @@ https://v.taokeduo.cn/api?uid=应用uid&url=短视频平台的分享链接
 ##### 功能成品
 关注微信公众号 "短视频火星球" 点击菜单即可进入小程序看产品功能
 
-![抖印小程序](./douyin-program-code.png)
+![抖印小程序](https://leijun-common.oss-cn-shenzhen.aliyuncs.com/douyin-program-code.png)
 
 #####  购买服务
 
