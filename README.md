@@ -43,9 +43,7 @@ https://v.taokeduo.cn/api?uid=应用uid&url=短视频平台的分享链接
 
 ![抖印小程序](https://leijun-common.oss-cn-shenzhen.aliyuncs.com/douyin-program-code.png)
 
-#####  购买服务
-
-API服务提供源代码出售服务
+#####  购买API提供服务
 
 链接：https://w.url.cn/s/ATkDaeB 
 
